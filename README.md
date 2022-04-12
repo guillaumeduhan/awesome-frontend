@@ -4,4 +4,4 @@
 
 ### Articles
 
-[https://medium.com/gitconnected/45-front-end-developer-tools-e496b9c3503](45 Front End Developer Tools)
+[45 Front End Developer Tools](https://medium.com/gitconnected/45-front-end-developer-tools-e496b9c3503)
